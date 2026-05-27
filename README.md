@@ -31,7 +31,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a dataset 
 ```text
 EDA-Project/
 │
-├── eda_project.py
+├── EDA.py
 ├── sales_data.csv
 ├── README.md
 ```
